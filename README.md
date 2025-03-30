@@ -7,11 +7,10 @@
 ---
 
 ###Introduction
+---
 
 The **Restaurant Rating** dataset provides information on restaurants in Mexico based on a 2012 customer survey. The survey collected data on restaurant types, cuisines, consumer demographics, and preferences. This analysis aims to extract meaningful insights to guide business entrepreneurs and investors in making informed decisions.
 
-
-**_Disclaimer_**: _All datasets and reports do not represent any company or super market, but just a practice dataset to demonstrate capabilities of power BI_.
 
 
 ##Problem Statement
@@ -50,8 +49,8 @@ the following power BI features were incorparated:
 ##Modelling:
 ---
 
-The Mode is a star schema,
-There are 2-dimension tables and one fact table. the dimension tables are all joined to the fact table with one-to-many relationship.
+The Model is a star schema,
+There are 2-dimension tables and a fact table. the dimension tables are all joined to the fact table with one-to-many relationship.
 
 ![](https://github.com/Esther-git87/Capstone-Project-2/blob/main/Restaurantratingmodelling.png)
 ---
