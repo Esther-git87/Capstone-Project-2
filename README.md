@@ -1,19 +1,19 @@
 ## Capstone-Project-2
 
-##RESTAURANT RATING ANALYSIS
+## RESTAURANT RATING ANALYSIS
 ---
 
 ![](https://github.com/Esther-git87/Capstone-Project-2/blob/main/Restaurantimage.PNG)
 ---
 
-###Introduction
+### Introduction
 ---
 
 The **Restaurant Rating** dataset provides information on restaurants in Mexico based on a 2012 customer survey. The survey collected data on restaurant types, cuisines, consumer demographics, and preferences. This analysis aims to extract meaningful insights to guide business entrepreneurs and investors in making informed decisions.
 
 
 
-##Problem Statement
+## Problem Statement
 ---
 
 1.	What can we learn from the highest-rated restaurants? Do consumer preferences affect ratings?
@@ -25,7 +25,7 @@ The **Restaurant Rating** dataset provides information on restaurants in Mexico 
 4.	If investing in a restaurant, which characteristics would be most important?
 
 
-##Skills/ Concepts Demonstrated
+## Skills/ Concepts Demonstrated
 ---
 
 
@@ -46,7 +46,7 @@ the following power BI features were incorparated:
 -Page navigation
 
 
-##Modelling:
+## Modelling:
 ---
 
 The Model is a star schema,
@@ -56,7 +56,7 @@ There are 2-dimension tables and a fact table. the dimension tables are all join
 ---
 
 
-##Visualization
+## Visualization
 ---
 
 The Report comprises of 2 pages
@@ -68,7 +68,7 @@ Feature
 the two tabs are button with hovering effect and each navigates to the page with similar name.
 
 
-###Analysis
+### Analysis
 ---
 
 
@@ -108,7 +108,7 @@ the two tabs are button with hovering effect and each navigates to the page with
 ---
 
 
-##Key Characteristics for Investment:
+## Key Characteristics for Investment:
 ---
 
 •	Investing in Mexican, Italian, and Coffee Shop cuisines is a strong opportunity.
@@ -119,7 +119,7 @@ the two tabs are button with hovering effect and each navigates to the page with
 
 
 
-##Conclusion:
+## Conclusion:
 ---
 
 The analysis provides insights into consumer preferences, restaurant performance, and investment opportunities in the restaurant industry in Mexico. By addressing supply gaps and improving service offerings, investors can maximize profitability and customer satisfaction
