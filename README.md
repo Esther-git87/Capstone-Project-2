@@ -127,7 +127,7 @@ The analysis provides insights into consumer preferences, restaurant performance
 
 
 
-##Recommendations:
+## Recommendations:
 ---
 
 1.	Expand restaurants offering high-demand cuisines to fill supply gaps.
