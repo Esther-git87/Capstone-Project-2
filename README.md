@@ -29,21 +29,21 @@ The **Restaurant Rating** dataset provides information on restaurants in Mexico 
 ---
 
 
-the following power BI features were incorparated:
+The following power BI features were incorparated:
 
--DAX,
+- DAX,
 
--Quick measures,
+- Quick measures,
 
--Modelling,
+- Modelling,
 
--Filter,
+- Filter,
 
--Tooltips,
+- Tooltips,
 
--Button,
+- Button,
 
--Page navigation
+- Page navigation
 
 
 ## Modelling:
