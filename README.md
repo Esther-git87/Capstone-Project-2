@@ -74,33 +74,31 @@ the two tabs are button with hovering effect and each navigates to the page with
 
 1. Highest Rated Restaurants & Consumer Preferences:
 
-•	Top-rated restaurants specialize in Mexican, Italian, and Coffee Shop cuisines.
+- Top-rated restaurants specialize in Mexican, Italian, and Coffee Shop cuisines.
 
-•	Alcohol service influences ratings, with full-bar restaurants receiving higher ratings.
+- Alcohol service influences ratings, with full-bar restaurants receiving higher ratings.
 
-•	Family and coffee shop cuisine categories show higher average ratings.
+- Family and coffee shop cuisine categories show higher average ratings.
 
 
 ![](https://github.com/Esther-git87/Capstone-Project-2/blob/main/Rating%20pg%201.png)
 ---
 
-
-
 2. Consumer Demographics & Bias in Data:
    
-•	Most consumers fall in the middle-age category.
+- Most consumers fall in the middle-age category.
 
-•	Majority of consumers are single (92.8%), indicating potential bias in data representation.
+- Majority of consumers are single (92.8%), indicating potential bias in data representation.
 
-•	The largest consumer group is employed individuals, followed by students.
+- The largest consumer group is employed individuals, followed by students.
 
-•	Consumers with medium budget dominate, while high-budget consumers are fewer
+- Consumers with medium budget dominate, while high-budget consumers are fewer
 
-. Demand & Supply Gaps:
+### Demand & Supply Gaps:
 
-•	There is a supply shortage in certain cuisines, as demand surpasses supply in some categories.
+- There is a supply shortage in certain cuisines, as demand surpasses supply in some categories.
 
-•	Identifying these gaps can help investors make strategic business decisions
+- Identifying these gaps can help investors make strategic business decisions
 
 
 
