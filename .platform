@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Restaurant_Ratings"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "2c6ef311-5f4d-459d-a2eb-320e8740748d"
+  }
+}

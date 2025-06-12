@@ -1,0 +1,54 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/1.7.0/schema.json",
+  "name": "c0ac85e541d684805d08",
+  "position": {
+    "x": 35.433070866141733,
+    "y": 35.433070866141733,
+    "z": 12000,
+    "height": 256.88976377952753,
+    "width": 348.42519685039372,
+    "tabOrder": 12000
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "RESTAURANT RATING ANALYSIS",
+                    "textStyle": {
+                      "fontFamily": "Arial Black",
+                      "fontSize": "42.6667px",
+                      "color": "#061b14"
+                    }
+                  }
+                ],
+                "horizontalTextAlignment": "center"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}
